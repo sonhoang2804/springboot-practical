@@ -1,8 +1,8 @@
 package com.example.springboot.endpoint;
 
-import com.example.spring_crud_upload.entity.CustomErrorType;
-import com.example.spring_crud_upload.entity.Product;
-import com.example.spring_crud_upload.model.ProductModel;
+import com.example.springboot.entity.CustomErrorType;
+import com.example.springboot.entity.Product;
+import com.example.springboot.model.ProductModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

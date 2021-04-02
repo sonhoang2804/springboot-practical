@@ -1,7 +1,7 @@
 package com.example.springboot.service;
 
 
-import com.example.spring_crud_upload.entity.User;
+import com.example.springboot.entity.User;
 
 public interface UserService {
     void save (User user);

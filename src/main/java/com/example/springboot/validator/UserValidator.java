@@ -1,8 +1,8 @@
 package com.example.springboot.validator;
 
 
-import com.example.spring_crud_upload.entity.User;
-import com.example.spring_crud_upload.service.UserService;
+import com.example.springboot.entity.User;
+import com.example.springboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;

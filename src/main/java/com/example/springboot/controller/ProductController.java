@@ -1,9 +1,9 @@
 package com.example.springboot.controller;
 
-import com.example.spring_crud_upload.entity.Product;
-import com.example.spring_crud_upload.entity.ProductValidator;
-import com.example.spring_crud_upload.model.ProductModel;
-import com.example.spring_crud_upload.model.ProductModel2;
+import com.example.springboot.entity.Product;
+import com.example.springboot.entity.ProductValidator;
+import com.example.springboot.model.ProductModel;
+import com.example.springboot.model.ProductModel2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

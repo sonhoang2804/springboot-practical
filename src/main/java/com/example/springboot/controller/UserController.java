@@ -1,9 +1,9 @@
 package com.example.springboot.controller;
 
-import com.example.spring_crud_upload.entity.User;
-import com.example.spring_crud_upload.service.SecurityService;
-import com.example.spring_crud_upload.service.UserService;
-import com.example.spring_crud_upload.validator.UserValidator;
+import com.example.springboot.entity.User;
+import com.example.springboot.service.SecurityService;
+import com.example.springboot.service.UserService;
+import com.example.springboot.validator.UserValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

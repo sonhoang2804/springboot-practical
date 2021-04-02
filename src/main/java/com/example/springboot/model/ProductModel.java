@@ -1,6 +1,6 @@
 package com.example.springboot.model;
 
-import com.example.spring_crud_upload.entity.Product;
+import com.example.springboot.entity.Product;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.PagingAndSortingRepository;

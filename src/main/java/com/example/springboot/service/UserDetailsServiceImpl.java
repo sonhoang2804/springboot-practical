@@ -1,9 +1,9 @@
 package com.example.springboot.service;
 
 
-import com.example.spring_crud_upload.entity.Role;
-import com.example.spring_crud_upload.entity.User;
-import com.example.spring_crud_upload.model.UserRepository;
+import com.example.springboot.entity.Role;
+import com.example.springboot.entity.User;
+import com.example.springboot.model.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
